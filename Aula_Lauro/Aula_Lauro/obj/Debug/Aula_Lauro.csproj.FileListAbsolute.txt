@@ -1,0 +1,7 @@
+C:\Users\BR\source\repos\Aula_Lauro\Aula_Lauro\bin\Debug\Aula_Lauro.exe.config
+C:\Users\BR\source\repos\Aula_Lauro\Aula_Lauro\bin\Debug\Aula_Lauro.exe
+C:\Users\BR\source\repos\Aula_Lauro\Aula_Lauro\bin\Debug\Aula_Lauro.pdb
+C:\Users\BR\source\repos\Aula_Lauro\Aula_Lauro\obj\Debug\Aula_Lauro.csprojAssemblyReference.cache
+C:\Users\BR\source\repos\Aula_Lauro\Aula_Lauro\obj\Debug\Aula_Lauro.csproj.CoreCompileInputs.cache
+C:\Users\BR\source\repos\Aula_Lauro\Aula_Lauro\obj\Debug\Aula_Lauro.exe
+C:\Users\BR\source\repos\Aula_Lauro\Aula_Lauro\obj\Debug\Aula_Lauro.pdb
