@@ -31,7 +31,8 @@ namespace SelectionSort
                 select[menorIndice] = resultado;
             }
             Console.WriteLine("\t\t\t Organizado");
-            foreach(int i in select)
+            // Foreach é uma estrutura de repetiçao que nao precisa de condição, isso é definido de forma implícita, pelo tamanho da coleção.
+            foreach (int i in select) 
             {
                 Console.Write("\t" + i + " ");
             }
